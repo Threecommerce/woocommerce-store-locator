@@ -4,7 +4,7 @@ A **store locator** page for WordPress and WooCommerce: a list of your stores wi
 
 ![Store locator page with the store list and the map](images/store-locator-page.png)
 
-**Compatibility:** WordPress 6.0+ (tested on 7.1) · PHP 8.1 – 8.4 · Works with or without WooCommerce
+**Compatibility:** WordPress 6.0+ (tested on 7.1) · PHP 8.1 – 8.5 · Works with or without WooCommerce
 **License:** commercial · coming soon
 
 ## Features
@@ -25,7 +25,7 @@ A **store locator** page for WordPress and WooCommerce: a list of your stores wi
 ## Requirements
 
 - WordPress 6.0 or newer
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - WooCommerce is **not** required
 - With OpenStreetMap nothing else is needed. With Google Maps you need an API key with the *Maps JavaScript API* enabled; without a key the page still shows the store list
 
